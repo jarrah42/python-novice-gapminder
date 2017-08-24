@@ -207,7 +207,7 @@ print(total)
 > > | 3       | total = 2 char = 'i' |
 > > | 2       | total = 2 char = 'n' |
 > > | 3       | total = 3 char = 'n' |
-> {. solution}
+> {: .solution}
 {: .challenge}
 
 > ## Reversing a String
